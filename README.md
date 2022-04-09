@@ -1,0 +1,2 @@
+# pyrrr
+Reduced-Rank Regression
